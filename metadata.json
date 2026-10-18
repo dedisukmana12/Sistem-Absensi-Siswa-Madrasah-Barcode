@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Absensi Digital MA Bojongjati",
+  "description": "Sistem absensi digital offline-first MA Bojongjati dengan scanner barcode/QR, anti double-scan, 1-tap laporan WhatsApp wali murid, dan sinkronisasi Google Sheets.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
